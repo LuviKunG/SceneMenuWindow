@@ -2,7 +2,7 @@
   "name": "com.luvikung.scenemenuwindow",
   "displayName": "Scene Menu Window for Unity",
   "description": "This is plugin that will add new window for switch scene easier with load mode.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2019.3",
   "keywords": [
     "scene",
