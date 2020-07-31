@@ -26,7 +26,7 @@ Then merge this json format below.
 ```json
 {
   "dependencies": {
-    "com.luvikung.scenemenuwindow": "https://github.com/LuviKunG/SceneMenuWindow.git#1.0.1"
+    "com.luvikung.scenemenuwindow": "https://github.com/LuviKunG/SceneMenuWindow.git#1.0.2"
   }
 }
 ```
@@ -41,7 +41,7 @@ In Unity 2019.3 or greater, Package Manager is include the new feature that able
 
 Just simply using this git URL and following with version like this example.
 
-**https://github.com/LuviKunG/SceneMenuWindow.git#1.0.1**
+**https://github.com/LuviKunG/SceneMenuWindow.git#1.0.2**
 
 Make sure that you're select the latest version.
 
